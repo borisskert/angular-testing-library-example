@@ -29,6 +29,7 @@
     "@angular/compiler-cli": "^14.0.0",
     "@jest/types": "^28.1.1",
     "@testing-library/angular": "^12.1.0",
+    "@testing-library/dom": "^8.16.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@types/jest": "^28.1.5",
     "jest": "^28.1.2",
