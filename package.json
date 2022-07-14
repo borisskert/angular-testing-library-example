@@ -33,6 +33,7 @@
     "@angular/compiler-cli": "^14.0.0",
     "@cypress/schematic": "^2.0.0",
     "@testing-library/angular": "^12.1.0",
+    "@testing-library/cypress": "^8.0.3",
     "@testing-library/jest-dom": "^5.16.4",
     "@types/jest": "^28.1.5",
     "cypress": "^10.3.0",
